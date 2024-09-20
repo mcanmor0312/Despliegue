@@ -19,9 +19,9 @@
 
 ## Tipos de servidores:
  ### Los tres tipos principales de servidores DNS son:
-  Autoritativo: Tiene la información final sobre un dominio específico.
-  Recursivo: Busca información en otros servidores cuando no tiene respuesta.
-  De raíz: Mantiene registros para dominios de nivel superior.
+  * Autoritativo: Tiene la información final sobre un dominio específico.
+  * Recursivo: Busca información en otros servidores cuando no tiene respuesta.
+  * De raíz: Mantiene registros para dominios de nivel superior.
   Funcionan juntos para traducir nombres de dominio a direcciones IP.
 
 ## Registros:
