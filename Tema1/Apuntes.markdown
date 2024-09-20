@@ -1,6 +1,6 @@
 # DNS
 ## Resolución:
-  se refiere al proceso de convertir nombres de dominio legibles por humanos en direcciones IP numéricas que pueden ser entendidas por dispositivos. (Esto permite que los usuarios accedan a recursos en internet utilizando nombres fáciles de recordar en lugar de direcciones IP complejas)
+  Se refiere al proceso de convertir nombres de dominio legibles por humanos en direcciones IP numéricas que pueden ser entendidas por dispositivos. (Esto permite que los usuarios accedan a recursos en internet utilizando nombres fáciles de recordar en lugar de direcciones IP complejas)
 
 ## Nombre de dominio:
  Un nombre de dominio es un identificador único y legible por humanos que representa un dominio en el sistema de nombres de dominio (DNS)
