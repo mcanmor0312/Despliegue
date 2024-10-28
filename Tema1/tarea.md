@@ -26,3 +26,12 @@
 ### Código
 
 `código`
+
+#### Comandos usados
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/mcanmor0312/aDAWEB_Tema1.git
+git push -u origin master
